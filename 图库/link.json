@@ -1,0 +1,21 @@
+<div class="gallery-group-main">
+
+  <figure class="gallery-group">
+  <img class="gallery-group-img no-lightbox" src='https://source.fomal.cc/img/default_cover_61.webp' alt="Group Image Gallery">
+  <figcaption>
+  <div class="gallery-group-name">封面专区</div>
+  <p>本站用作文章封面的图片，不保证分辨率</p>
+  <a href='/box/Gallery/photo'></a>
+  </figcaption>
+  </figure>
+  
+
+  <figure class="gallery-group">
+  <img class="gallery-group-img no-lightbox" src='https://source.fomal.cc/img/dm11.webp' alt="Group Image Gallery">
+  <figcaption>
+  <div class="gallery-group-name">背景专区</div>
+  <p>收藏的一些的背景与壁纸，分辨率很高</p>
+  <a href='/box/Gallery/wallpaper'></a>
+  </figcaption>
+  </figure>
+   </div>
